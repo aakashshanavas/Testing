@@ -8,7 +8,7 @@ namespace OpenKattis_Test2_D
         static void Main(string[] args)
         {
 
-            //int[] Number = new int[5];
+            //int[] Number = new int[5];;;
             int[] Number = { 2, 2, 1 };
             int ArrLength = Number.Length;
              
